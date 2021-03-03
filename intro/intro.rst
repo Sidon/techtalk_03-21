@@ -10,10 +10,10 @@ funções métodos e classes. Ao contrário dos comentários convencionais do c�
     Linguagens que suportam dosctrings incluem Python, Lisp, Elixir, Clojure, Gherkin, 
     Julia and Haskell.
     
-    -- Wikipedia
+    Wikipedia
 
 Convenções para  Docstring:
----------------------------
+===========================
 A linha da string doc deve começar com uma letra maiúscula e terminar com um ponto. 
 A primeira linha deve ser uma breve descrição.
 
