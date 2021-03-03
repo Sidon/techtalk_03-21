@@ -1,0 +1,293 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docutils.sourceforge.io/rst.html)
+>> /Border [ 0 0 0 ] /Rect [ 314.8629 714.0236 480.4829 726.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Annots [ 5 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html)
+>> /Border [ 0 0 0 ] /Rect [ 163.8329 678.0236 445.0429 690.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 7 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20210212141702+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210212141702+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 5 /First 12 0 R /Last 15 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Count 1 /Dest [ 4 0 R /XYZ 62.69291 765.0236 0 ] /First 13 0 R /Last 13 0 R /Next 14 0 R /Parent 11 0 R 
+  /Title (Docstring)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 624.0236 0 ] /Parent 12 0 R /Title (Conven\347\365es para  Docstring:)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 765.0236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 12 0 R /Title (reStructuredText)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Parent 11 0 R /Prev 14 0 R /Title (Sphinx)
+>>
+endobj
+16 0 obj
+<<
+/Count 3 /Kids [ 4 0 R 6 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Length 2297
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Docstring) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .530751 Tw 12 TL /F1 10 Tf 0 0 0 rg (Em python, uma docstring fornece uma maneira conveniente de associar a documenta\347\343o aos m\363dulos,) Tj T* 0 Tw .113314 Tw (fun\347\365es m\351todos e classes. Ao contr\341rio dos coment\341rios convencionais do c\363digo-fonte, ) Tj /F2 10 Tf (uma docstring) Tj T* 0 Tw (deve descrever o que a fun\347\343o faz, e n\343o como.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.010697 Tw (Em programa\347\343o, uma docstring \351 uma string literal especificada no c\363digo fonte, usada como um) Tj T* 0 Tw (coment\341rio, para documentar um segmento espec\355fico de c\363digo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Liguagens que suportam dosctrings incluem Python, Lisp, Elixir, Clojure, Gherkin, Julia and Haskell.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 406.5498 0 Td (Wikipedia) Tj T* -406.5498 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Conven\347\365es para Docstring:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .602209 Tw (A linha da string doc deve come\347ar com uma letra mai\372scula e terminar com um ponto. A primeira linha) Tj T* 0 Tw (deve ser uma breve descri\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .33881 Tw (N\343o escreva o nome do objeto. Se houver mais linhas na string de documenta\347\343o, a segunda linha deve) Tj T* 0 Tw (ficar em branco, separando visualmente o resumo do resto da descri\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.508735 Tw (As linhas a seguir devem ser um ou mais par\341grafos que descrevem as conven\347\365es de chamada do) Tj T* 0 Tw (objeto, seus efeitos colaterais, etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+Q
+ 
+endstream
+endobj
+18 0 obj
+<<
+/Length 533
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (reStructuredText) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.762126 Tw 12 TL /F1 10 Tf 0 0 0 rg (\311 um formato de arquivo para dados textuais usado principalmente na comunidade da linguagem de) Tj T* 0 Tw (programa\347\343o Python para documenta\347\343o t\351cnica. | Site: ) Tj 0 0 .501961 rg (https://docutils.sourceforge.io/rst.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 881
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sphinx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .42936 Tw 12 TL /F1 10 Tf 0 0 0 rg (Sphinx \351 um gerador de documenta\347\343o ou uma ferramenta que traduz um conjunto de arquivos fonte de) Tj T* 0 Tw 1.134524 Tw (texto simples em v\341rios formatos de sa\355da, produzindo automaticamente refer\352ncias cruzadas, \355ndices,) Tj T* 0 Tw 3.693828 Tw (etc. Ou seja, se voc\352 tiver um diret\363rio contendo um monte de /usage/reestruturedtext/index ou) Tj T* 0 Tw .64186 Tw (Markdown, o Sphinx pode gerar uma s\351rie de arquivos HTML, um arquivo PDF \(via LaTeX\), p\341ginas de) Tj T* 0 Tw (manual e muito mais. \() Tj 0 0 .501961 rg (https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Nums [ 0 21 0 R 1 22 0 R 2 23 0 R ]
+>>
+endobj
+21 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+22 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+23 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000538 00000 n 
+0000000730 00000 n 
+0000000953 00000 n 
+0000001166 00000 n 
+0000001389 00000 n 
+0000001494 00000 n 
+0000001752 00000 n 
+0000001826 00000 n 
+0000001975 00000 n 
+0000002096 00000 n 
+0000002226 00000 n 
+0000002333 00000 n 
+0000002405 00000 n 
+0000004754 00000 n 
+0000005338 00000 n 
+0000006270 00000 n 
+0000006329 00000 n 
+0000006363 00000 n 
+0000006397 00000 n 
+trailer
+<<
+/ID 
+[<8c7a91e07d041b6059b2746ba0452c2f><8c7a91e07d041b6059b2746ba0452c2f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 24
+>>
+startxref
+6431
+%%EOF
