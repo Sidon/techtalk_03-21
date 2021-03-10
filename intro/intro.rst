@@ -1,3 +1,4 @@
+==========
 Docstrings
 ==========
 Em python, uma docstring fornece uma maneira conveniente de associar a documentação aos módulos, 
@@ -25,15 +26,37 @@ do objeto, seus efeitos colaterais, etc.
 
 reStructuredText
 ================
-É um formato de arquivo para dados textuais usado principalmente na comunidade da linguagem 
-de programação Python para documentação técnica.
+reStructuredText é um sistema analisador e sintaxe de marcação de texto simples de fácil 
+leitura, o que você vê é o que você obtém. É útil para documentação de programa em linha 
+(como docstrings do Python), para criar páginas da web simples rapidamente e para 
+documentos autônomos. reStructuredText é projetado para extensibilidade para domínios de 
+aplicativo específicos. O analisador reStructuredText é um componente do Docutils. 
+reStructuredText é uma revisão e reinterpretação dos sistemas de marcação leve 
+StructuredText e Setext.
+
+O objetivo principal do reStructuredText é definir e implementar uma sintaxe de marcação 
+para uso em docstrings Python e outros domínios de documentação, que seja legível e simples, 
+mas poderosa o suficiente para uso não trivial. O objetivo pretendido da marcação é a 
+conversão de documentos reStructuredText em formatos de dados estruturados úteis.
 | Site: https://docutils.sourceforge.io/rst.html
 
 Sphinx
 ======
 Sphinx é um gerador de documentação ou uma ferramenta que traduz um conjunto de arquivos 
 fonte de texto simples em vários formatos de saída, produzindo automaticamente referências cruzadas, 
-índices, etc. Ou seja, se você tiver um diretório contendo um monte de /usage/reestruturedtext/index 
+índices, etc. Ou seja, se você tiver um diretório contendo uma grande quantidade de reStructuredText 
 ou Markdown, o Sphinx pode gerar uma série de arquivos HTML, um arquivo PDF (via LaTeX), páginas de 
 manual e muito mais. (https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html)
 
+O Sphinx se concentra na documentação, em particular na documentação manuscrita; no entanto, o Sphinx 
+também pode ser usado para gerar blogs, páginas iniciais e até livros. Muito do poder do Sphinx vem da 
+riqueza de seu formato de marcação de texto simples padrão, reStructuredText, junto com seus recursos 
+de extensibilidade significativos.
+
+.. footer::
+ ###Page###
+
+.. header::
+ ###Title### | Esta apresentação foi feita com docstrings :-).    
+
+ 
