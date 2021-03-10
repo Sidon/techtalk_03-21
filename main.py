@@ -1,9 +1,7 @@
 """
 Finance pacakage for Docstrings tests
 """
-import fin
+from fin import draft
 
-
-from fin import juros
-
-juros.juros_simples2()
+j2 = draft.juros_simples1()
+j1 = draft.juros_simples2()
