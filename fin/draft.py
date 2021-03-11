@@ -1,5 +1,16 @@
 """
-Calculo de juros simples
+Módulo para cálculos financeiros.
+
+Funções
+-------
+
+Juros simples1
+~~~~~~~~~~~~~~
+Calcula juros simples, documentado com docstrings.
+
+Juros simples2
+~~~~~~~~~~~~~~
+Calcula juros simples, "documentado" dom comentários 
 """
 
 

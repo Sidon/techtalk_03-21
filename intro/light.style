@@ -11,13 +11,14 @@ pageSetup:
     spacing-footer: 2mm
     firstTemplate: standardPage
 
+
 pageTemplates:
     standardPage:
         frames: []
             [3%, 3%, 94%, 94%]
-        background: white.jpg
-        showHeader: false
-        showFooter: false
+        background: boticario_logo.svg
+        showHeader: True
+        showFooter: True
 
 linkColor: #1b7b88
 
