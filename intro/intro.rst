@@ -54,7 +54,7 @@ de programa em linha (como docstrings do Python).
 
 O objetivo principal do reStructuredText é definir e implementar uma sintaxe de marcação 
 para uso em docstrings Python e outros domínios de documentação.
-| Site: https://docutils.sourceforge.io/rst.html
+Site: https://docutils.sourceforge.io/rst.html
 
 -------
 Sphinx
@@ -69,5 +69,8 @@ reStructuredText.
 
 
 .. header::
- ###Section###
+    ###Section###
+
+.. footer::
+    “Code is more often read than written.” — Guido van Rossum
 

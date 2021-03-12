@@ -1,6 +1,6 @@
 pageSetup:
     size: null
-    width: 16cm
+    width: 17cm
     height: 9cm
     margin-top: 0cm
     margin-bottom: 0cm
@@ -44,3 +44,5 @@ styles:
         leftIndent: 0
         spaceBefore: 8
         spaceAfter: 8
+
+           

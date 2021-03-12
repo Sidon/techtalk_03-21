@@ -22,7 +22,7 @@ endobj
 endobj
 5 0 obj
 <<
-/Contents 28 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Contents 28 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -32,7 +32,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Contents 29 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Contents 29 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -42,7 +42,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Contents 30 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Contents 30 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -62,7 +62,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Contents 31 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Contents 31 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -72,7 +72,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Contents 32 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Contents 32 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -84,12 +84,12 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://docutils.sourceforge.io/rst.html)
->> /Border [ 0 0 0 ] /Rect [ 19.6063 40.03943 251.4743 56.83943 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 171.4327 57.34343 403.3007 74.14343 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Annots [ 12 0 R ] /Contents 33 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Annots [ 12 0 R ] /Contents 33 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -101,12 +101,12 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html)
->> /Border [ 0 0 0 ] /Rect [ 24.2683 56.83943 417.9623 73.63943 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 25.11869 74.14343 418.8127 90.94343 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
-/Annots [ 14 0 R ] /Contents 34 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 27 0 R /Resources <<
+/Annots [ 14 0 R ] /Contents 34 0 R /MediaBox [ 0 0 481.8898 255.1181 ] /Parent 27 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -121,7 +121,7 @@ endobj
 endobj
 17 0 obj
 <<
-/Author () /CreationDate (D:20210311082032+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210311082032+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210312081631+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210312081631+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Docstrings) /Trapped /False
 >>
 endobj
@@ -132,43 +132,43 @@ endobj
 endobj
 19 0 obj
 <<
-/Dest [ 6 0 R /XYZ 19.6063 219.8394 0 ] /Next 20 0 R /Parent 18 0 R /Title (Conven\347\365es para  Docstring:)
+/Dest [ 6 0 R /XYZ 20.45669 220.3434 0 ] /Next 20 0 R /Parent 18 0 R /Title (Conven\347\365es para  Docstring:)
 >>
 endobj
 20 0 obj
 <<
-/Count 4 /Dest [ 7 0 R /XYZ 19.6063 219.8394 0 ] /First 21 0 R /Last 21 0 R /Next 25 0 R /Parent 18 0 R 
+/Count 4 /Dest [ 7 0 R /XYZ 20.45669 220.3434 0 ] /First 21 0 R /Last 21 0 R /Next 25 0 R /Parent 18 0 R 
   /Prev 19 0 R /Title (Python docstring)
 >>
 endobj
 21 0 obj
 <<
-/Count 3 /Dest [ 10 0 R /XYZ 19.6063 219.8394 0 ] /First 22 0 R /Last 24 0 R /Parent 20 0 R /Title (PEP 257)
+/Count 3 /Dest [ 10 0 R /XYZ 20.45669 220.3434 0 ] /First 22 0 R /Last 24 0 R /Parent 20 0 R /Title (PEP 257)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 10 0 R /XYZ 19.6063 109.4394 0 ] /Next 23 0 R /Parent 21 0 R /Title (M\363dulos)
+/Dest [ 10 0 R /XYZ 20.45669 126.7434 0 ] /Next 23 0 R /Parent 21 0 R /Title (M\363dulos)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 11 0 R /XYZ 19.6063 219.8394 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (M\351todos p\372blicos)
+/Dest [ 11 0 R /XYZ 20.45669 220.3434 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (M\351todos p\372blicos)
 >>
 endobj
 24 0 obj
 <<
-/Dest [ 11 0 R /XYZ 19.6063 147.2394 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Pacotes)
+/Dest [ 11 0 R /XYZ 20.45669 147.7434 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Pacotes)
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 13 0 R /XYZ 19.6063 219.8394 0 ] /Next 26 0 R /Parent 18 0 R /Prev 20 0 R /Title (reStructuredText)
+/Dest [ 13 0 R /XYZ 20.45669 220.3434 0 ] /Next 26 0 R /Parent 18 0 R /Prev 20 0 R /Title (reStructuredText)
 >>
 endobj
 26 0 obj
 <<
-/Dest [ 15 0 R /XYZ 19.6063 219.8394 0 ] /Parent 18 0 R /Prev 25 0 R /Title (Sphinx)
+/Dest [ 15 0 R /XYZ 20.45669 220.3434 0 ] /Parent 18 0 R /Prev 25 0 R /Title (Sphinx)
 >>
 endobj
 27 0 obj
@@ -178,12 +178,12 @@ endobj
 endobj
 28 0 obj
 <<
-/Length 34763
+/Length 34946
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -1025,40 +1025,47 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 186.2394 cm
+1 0 0 1 20.45669 186.7434 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 5.6 Tm /F3 28 Tf 33.6 TL 134.0434 0 Td (Docstrings) Tj T* -134.0434 0 Td ET
+BT 1 0 0 1 0 5.6 Tm /F3 28 Tf 33.6 TL 147.3662 0 Td (Docstrings) Tj T* -147.3662 0 Td ET
 Q
 Q
 q
-1 0 0 1 19.6063 125.8394 cm
+1 0 0 1 20.45669 126.3434 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL (Em programa\347\343o, uma docstring \351 uma string literal especificada) Tj T* (no c\363digo fonte, usada como um coment\341rio, para documentar um) Tj T* (segmento espec\355fico de c\363digo.) Tj T* ET
+BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL (Em programa\347\343o, uma docstring \351 uma string literal especificada no) Tj T* (c\363digo fonte, usada como um coment\341rio, para documentar um) Tj T* (segmento espec\355fico de c\363digo.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 82.23943 cm
+1 0 0 1 20.45669 82.74343 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 19.6 Tm /F1 14 Tf 16.8 TL (Linguagens que suportam dosctrings incluem Python, Lisp, Elixir,) Tj T* (Clojure, Gherkin, Julia and Haskell.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 55.43943 cm
+1 0 0 1 20.45669 55.94343 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Wikipedia) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 45.43943 cm
+1 0 0 1 20.45669 45.94343 cm
 Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 226.7717 0 Td 16.8 TL /F1 14 Tf 16.8 TL  T* -226.7717 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 240.9449 0 Td 16.8 TL /F1 14 Tf 16.8 TL  T* -240.9449 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -1066,12 +1073,12 @@ endstream
 endobj
 29 0 obj
 <<
-/Length 35495
+/Length 35675
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -1913,19 +1920,19 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 190.4394 cm
+1 0 0 1 20.45669 190.9434 cm
 q
 BT 1 0 0 1 0 4.9 Tm 29.4 TL /F3 24.5 Tf 0 0 0 rg (Conven\347\365es para Docstring:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 178.4394 cm
+1 0 0 1 20.45669 178.9434 cm
 Q
 q
-1 0 0 1 19.6063 178.4394 cm
+1 0 0 1 20.45669 178.9434 cm
 Q
 q
-1 0 0 1 19.6063 161.6394 cm
+1 0 0 1 20.45669 162.1434 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -1948,15 +1955,15 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 165.6394 cm
+1 0 0 1 20.45669 166.1434 cm
 Q
 q
-1 0 0 1 19.6063 115.2394 cm
+1 0 0 1 20.45669 132.5434 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 30.6 cm
+1 0 0 1 6 13.8 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
@@ -1966,7 +1973,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL (N\343o escreva o nome do objeto. Se houver mais linhas na) Tj T* (string de documenta\347\343o, a segunda linha deve ficar em) Tj T* (branco.) Tj T* ET
+BT 1 0 0 1 0 19.6 Tm /F1 14 Tf 16.8 TL (N\343o escreva o nome do objeto. Se houver mais linhas na string de) Tj T* (documenta\347\343o, a segunda linha deve ficar em branco.) Tj T* ET
 Q
 Q
 q
@@ -1974,10 +1981,10 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 119.2394 cm
+1 0 0 1 20.45669 136.5434 cm
 Q
 q
-1 0 0 1 19.6063 68.83943 cm
+1 0 0 1 20.45669 86.14343 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2000,15 +2007,22 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 58.83943 cm
+1 0 0 1 20.45669 76.14343 cm
 Q
 q
-1 0 0 1 19.6063 58.83943 cm
+1 0 0 1 20.45669 76.14343 cm
 Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 138.4597 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (Conven\347\365es para Docstring:) Tj T* -138.4597 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 152.6329 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (Conven\347\365es para Docstring:) Tj T* -152.6329 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -2016,12 +2030,12 @@ endstream
 endobj
 30 0 obj
 <<
-/Length 34556
+/Length 34730
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -2863,21 +2877,28 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 190.4394 cm
+1 0 0 1 20.45669 190.9434 cm
 q
 BT 1 0 0 1 0 4.9 Tm 29.4 TL /F3 24.5 Tf 0 0 0 rg (Python docstring) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 100.4394 cm
+1 0 0 1 20.45669 117.7434 cm
 q
-BT 1 0 0 1 0 70 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Em python, uma docstring fornece uma maneira conveniente de) Tj T* (associar a documenta\347\343o aos m\363dulos, fun\347\365es m\351todos e) Tj T* (classes. Ao contr\341rio dos coment\341rios convencionais do) Tj T* (c\363digo-fonte, ) Tj /F3 14 Tf (uma docstring deve descrever o que a fun\347\343o) Tj T* (faz, e n\343o como.) Tj T* ET
+BT 1 0 0 1 0 53.2 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Em python, uma docstring fornece uma maneira conveniente de) Tj T* (associar a documenta\347\343o aos m\363dulos, fun\347\365es m\351todos e classes.) Tj T* (Ao contr\341rio dos coment\341rios convencionais do c\363digo-fonte, ) Tj /F3 14 Tf (uma) Tj T* (docstring deve descrever o que a fun\347\343o faz, e n\343o como.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 174.6357 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (Python docstring) Tj T* -174.6357 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 188.8089 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (Python docstring) Tj T* -188.8089 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -2885,12 +2906,12 @@ endstream
 endobj
 31 0 obj
 <<
-/Length 34850
+/Length 35024
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -3732,25 +3753,25 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 194.6394 cm
+1 0 0 1 20.45669 195.1434 cm
 q
 BT 1 0 0 1 0 4.2 Tm 25.2 TL /F3 21 Tf 0 0 0 rg (PEP 257) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 121.4394 cm
+1 0 0 1 20.45669 138.7434 cm
 q
-BT 1 0 0 1 0 53.2 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Uma docstring \351 uma string literal que ocorre como a primeira) Tj T* (instru\347\343o em uma defini\347\343o de m\363dulo, fun\347\343o, classe ou m\351todo.) Tj T* (Tal docstring torna-se o atributo especial ) Tj /F4 14 Tf (`__doc__`) Tj /F1 14 Tf ( desse) Tj T* (objeto.) Tj T* ET
+BT 1 0 0 1 0 36.4 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Uma docstring \351 uma string literal que ocorre como a primeira) Tj T* (instru\347\343o em uma defini\347\343o de m\363dulo, fun\347\343o, classe ou m\351todo. Tal) Tj T* (docstring torna-se o atributo especial ) Tj /F4 14 Tf (`__doc__`) Tj /F1 14 Tf ( desse objeto.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 88.43943 cm
+1 0 0 1 20.45669 105.7434 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F5 17.5 Tf 0 0 0 rg (M\363dulos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 32.03943 cm
+1 0 0 1 20.45669 49.34343 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL (Todos os m\363dulos normalmente devem ter docstrings, e todas as) Tj T* (fun\347\365es e classes exportadas por um m\363dulo tamb\351m devem ter) Tj T* (docstrings.) Tj T* ET
@@ -3759,7 +3780,14 @@ Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 199.1427 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (PEP 257) Tj T* -199.1427 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 213.3159 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (PEP 257) Tj T* -213.3159 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -3767,12 +3795,12 @@ endstream
 endobj
 32 0 obj
 <<
-/Length 34738
+/Length 34915
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -4614,36 +4642,43 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 198.8394 cm
+1 0 0 1 20.45669 199.3434 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F5 17.5 Tf 0 0 0 rg (M\351todos p\372blicos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 159.2394 cm
+1 0 0 1 20.45669 159.7434 cm
 q
-BT 1 0 0 1 0 19.6 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Os m\351todos p\372blicos \(incluindo o construtor ) Tj /F4 14 Tf (`__init__`) Tj /F1 14 Tf ( \)) Tj T* (tamb\351m devem ter docstrings.) Tj T* ET
+BT 1 0 0 1 0 19.6 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Os m\351todos p\372blicos \(incluindo o construtor ) Tj /F4 14 Tf (`__init__`) Tj /F1 14 Tf ( \) tamb\351m) Tj T* (devem ter docstrings.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 126.2394 cm
+1 0 0 1 20.45669 126.7434 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F5 17.5 Tf 0 0 0 rg (Pacotes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 86.63943 cm
+1 0 0 1 20.45669 87.14343 cm
 q
-BT 1 0 0 1 0 19.6 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Um pacote pode ser documentado no docstring do m\363dulo do) Tj T* (arquivo ) Tj /F4 14 Tf (`_init__.py`) Tj /F1 14 Tf ( no diret\363rio do pacote.) Tj T* ET
+BT 1 0 0 1 0 19.6 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Um pacote pode ser documentado no docstring do m\363dulo do arquivo) Tj T* /F4 14 Tf (`_init__.py`) Tj /F1 14 Tf ( no diret\363rio do pacote.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 76.63943 cm
+1 0 0 1 20.45669 77.14343 cm
 Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 199.1427 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (PEP 257) Tj T* -199.1427 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 213.3159 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (PEP 257) Tj T* -213.3159 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -4651,12 +4686,12 @@ endstream
 endobj
 33 0 obj
 <<
-/Length 34920
+/Length 35116
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -5498,31 +5533,38 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 190.4394 cm
+1 0 0 1 20.45669 190.9434 cm
 q
 BT 1 0 0 1 0 4.9 Tm 29.4 TL /F3 24.5 Tf 0 0 0 rg (reStructuredText) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 117.2394 cm
+1 0 0 1 20.45669 117.7434 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 53.2 Tm /F1 14 Tf 16.8 TL (reStructuredText \351 um sistema analisador e sintaxe de marca\347\343o) Tj T* (de texto simples de f\341cil leitura, o que voc\352 v\352 \351 o que voc\352) Tj T* (obt\351m. \311 \372til para, entre outros usos, documenta\347\343o de programa) Tj T* (em linha \(como docstrings do Python\).) Tj T* ET
+BT 1 0 0 1 0 53.2 Tm /F1 14 Tf 16.8 TL (reStructuredText \351 um sistema analisador e sintaxe de marca\347\343o de) Tj T* (texto simples de f\341cil leitura, o que voc\352 v\352 \351 o que voc\352 obt\351m. \311 \372til) Tj T* (para, entre outros usos, documenta\347\343o de programa em linha \(como) Tj T* (docstrings do Python\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 40.03943 cm
+1 0 0 1 20.45669 57.34343 cm
 q
-BT 1 0 0 1 0 53.2 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (O objetivo principal do reStructuredText \351 definir e implementar) Tj T* (uma sintaxe de marca\347\343o para uso em docstrings Python e outros) Tj T* (dom\355nios de documenta\347\343o. | Site:) Tj T* .105882 .482353 .533333 rg (https://docutils.sourceforge.io/rst.html) Tj T* ET
+BT 1 0 0 1 0 36.4 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (O objetivo principal do reStructuredText \351 definir e implementar uma) Tj T* -0.021962 Tw (sintaxe de marca\347\343o para uso em docstrings Python e outros dom\355nios) Tj T* 0 Tw (de documenta\347\343o. Site: ) Tj .105882 .482353 .533333 rg (https://docutils.sourceforge.io/rst.html) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 30.03943 cm
+1 0 0 1 20.45669 47.34343 cm
 Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 174.6427 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (reStructuredText) Tj T* -174.6427 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 188.8159 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (reStructuredText) Tj T* -188.8159 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -5530,12 +5572,12 @@ endstream
 endobj
 34 0 obj
 <<
-/Length 34802
+/Length 34993
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 184.0446 93.75251 cm
+1 0 0 1 198.2178 93.75251 cm
 q
 1 0 0 1 0 0 cm
 0 0 0 RG
@@ -6377,28 +6419,35 @@ Q
 Q
 Q
 q
-1 0 0 1 19.6063 190.4394 cm
+1 0 0 1 20.45669 190.9434 cm
 q
 BT 1 0 0 1 0 4.9 Tm 29.4 TL /F3 24.5 Tf 0 0 0 rg (Sphinx) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 117.2394 cm
+1 0 0 1 20.45669 134.5434 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 53.2 Tm /F1 14 Tf 16.8 TL (Sphinx \351 um gerador de documenta\347\343o ou uma ferramenta que) Tj T* (traduz um conjunto de arquivos fonte de texto simples em v\341rios) Tj T* (formatos de sa\355da, produzindo automaticamente refer\352ncias) Tj T* (cruzadas, \355ndices, etc.) Tj T* ET
+BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL (Sphinx \351 um gerador de documenta\347\343o ou uma ferramenta que traduz) Tj T* (um conjunto de arquivos fonte de texto simples em v\341rios formatos de) Tj T* (sa\355da, produzindo automaticamente refer\352ncias cruzadas, \355ndices, etc.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 19.6063 56.83943 cm
+1 0 0 1 20.45669 74.14343 cm
 q
-BT 1 0 0 1 0 36.4 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Muito do poder do Sphinx vem da riqueza de seu formato de) Tj T* (marca\347\343o de texto simples padr\343o, reStructuredText.) Tj T* (\() Tj .105882 .482353 .533333 rg (https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html) Tj 0 0 0 rg (\)) Tj T* ET
+BT 1 0 0 1 0 36.4 Tm -0.019469 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Muito do poder do Sphinx vem da riqueza de seu formato de marca\347\343o) Tj T* 0 Tw (de texto simples padr\343o, reStructuredText.) Tj T* (\() Tj .105882 .482353 .533333 rg (https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html) Tj 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 0 238.3181 cm
 q
-BT 1 0 0 1 0 2.8 Tm 205.3727 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (Sphinx) Tj T* -205.3727 0 Td ET
+BT 1 0 0 1 0 2.8 Tm 219.5459 0 Td 16.8 TL /F1 14 Tf 0 0 0 rg (Sphinx) Tj T* -219.5459 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 50.70588 0 Td (\223Code is more often read than written.\224 \227 Guido van Rossum) Tj T* -50.70588 0 Td ET
 Q
 Q
  
@@ -6460,40 +6509,40 @@ xref
 0000001311 00000 n 
 0000001517 00000 n 
 0000001723 00000 n 
-0000001915 00000 n 
-0000002140 00000 n 
-0000002353 00000 n 
-0000002578 00000 n 
-0000002684 00000 n 
-0000002952 00000 n 
-0000003027 00000 n 
-0000003160 00000 n 
-0000003328 00000 n 
-0000003459 00000 n 
-0000003570 00000 n 
-0000003706 00000 n 
-0000003814 00000 n 
-0000003944 00000 n 
-0000004051 00000 n 
-0000004151 00000 n 
-0000038967 00000 n 
-0000074515 00000 n 
-0000109124 00000 n 
-0000144027 00000 n 
-0000178818 00000 n 
-0000213791 00000 n 
-0000248646 00000 n 
-0000248744 00000 n 
-0000248778 00000 n 
-0000248812 00000 n 
-0000248846 00000 n 
-0000248880 00000 n 
-0000248914 00000 n 
-0000248948 00000 n 
+0000001916 00000 n 
+0000002141 00000 n 
+0000002355 00000 n 
+0000002580 00000 n 
+0000002686 00000 n 
+0000002954 00000 n 
+0000003029 00000 n 
+0000003163 00000 n 
+0000003332 00000 n 
+0000003464 00000 n 
+0000003576 00000 n 
+0000003713 00000 n 
+0000003822 00000 n 
+0000003953 00000 n 
+0000004061 00000 n 
+0000004161 00000 n 
+0000039160 00000 n 
+0000074888 00000 n 
+0000109671 00000 n 
+0000144748 00000 n 
+0000179716 00000 n 
+0000214885 00000 n 
+0000249931 00000 n 
+0000250029 00000 n 
+0000250063 00000 n 
+0000250097 00000 n 
+0000250131 00000 n 
+0000250165 00000 n 
+0000250199 00000 n 
+0000250233 00000 n 
 trailer
 <<
 /ID 
-[<ba8711757721a6b80a1d74ec2c6a5006><ba8711757721a6b80a1d74ec2c6a5006>]
+[<ad865000566abbf590a6eaae66cd870a><ad865000566abbf590a6eaae66cd870a>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 17 0 R
@@ -6501,5 +6550,5 @@ trailer
 /Size 43
 >>
 startxref
-248982
+250267
 %%EOF

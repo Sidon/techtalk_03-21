@@ -1,3 +1,7 @@
+from .mymath import Calc
+
+
+
 def juros_simples(c: float, i: float, n: int) -> float:
     """
     Calcula o juros simples do capital informado.
