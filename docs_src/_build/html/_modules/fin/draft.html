@@ -1,0 +1,358 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="pt-BR" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>fin.draft &mdash; documentação Techtalks Docstrings 1.0</title>
+  
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Índice" href="../../genindex.html" />
+    <link rel="search" title="Buscar" href="../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> Techtalks Docstrings
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Pesquisar documentos" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <!-- Local TOC -->
+              <div class="local-toc"></div>
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">Techtalks Docstrings</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+          <li><a href="../index.html">Código do módulo</a> &raquo;</li>
+        
+      <li>fin.draft</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <h1>Código fonte para fin.draft</h1><div class="highlight"><pre>
+<span></span><span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">Módulo para cálculos financeiros.</span>
+
+<span class="sd">Funções</span>
+<span class="sd">-------</span>
+
+<span class="sd">Juros simples1</span>
+<span class="sd">~~~~~~~~~~~~~~</span>
+<span class="sd">Calcula juros simples, documentado com docstrings.</span>
+
+<span class="sd">Juros simples2</span>
+<span class="sd">~~~~~~~~~~~~~~</span>
+<span class="sd">Calcula juros simples, &quot;documentado&quot; dom comentários </span>
+<span class="sd">&quot;&quot;&quot;</span>
+
+
+<div class="viewcode-block" id="juros_simples1"><a class="viewcode-back" href="../../source/fin.html#fin.draft.juros_simples1">[documentos]</a><span class="k">def</span> <span class="nf">juros_simples1</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">i</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Calcula o juros simples do capital informado</span>
+
+<span class="sd">    :param c: (float) Capital  </span>
+<span class="sd">    :param i: (float) Taxa de juros por período</span>
+<span class="sd">    :param n: (int) Número de períodos </span>
+<span class="sd">    </span>
+<span class="sd">    :returns (float): juros calculado sobre o capital no período informado </span>
+
+<span class="sd">    :Examplo de uso:</span>
+<span class="sd">    </span>
+<span class="sd">    .. code-block:: python</span>
+<span class="sd">    </span>
+<span class="sd">      capital = 100</span>
+<span class="sd">      taxa = 10</span>
+<span class="sd">      periodos = 3</span>
+<span class="sd">      juros = juros_simples2(capital, taxa, periodos)</span>
+
+<span class="sd">    &quot;&quot;&quot;</span>
+    
+    <span class="k">return</span> <span class="n">c</span><span class="o">*</span><span class="n">i</span><span class="o">*</span><span class="n">n</span></div>
+
+
+<span class="c1">##</span>
+<span class="c1"># Calcula o juros simples do capital informado</span>
+<span class="c1"># Argumentos:</span>
+<span class="c1">#    c = Capital</span>
+<span class="c1">#    i = Taxa de juros</span>
+<span class="c1">#    n = Numero de periodos</span>
+<span class="c1">#</span>
+<span class="c1">#    Exemplo de uso:</span>
+<span class="c1">#       ``juros_calculado = juros_simples(500, 3, 5)``</span>
+<span class="c1">#       print(juros_calculado)</span>
+<span class="c1">##</span>
+<div class="viewcode-block" id="juros_simples2"><a class="viewcode-back" href="../../source/fin.html#fin.draft.juros_simples2">[documentos]</a><span class="k">def</span> <span class="nf">juros_simples2</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">i</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">c</span><span class="o">*</span><span class="n">i</span><span class="o">*</span><span class="n">n</span></div>
+
+
+
+
+<div class="viewcode-block" id="test"><a class="viewcode-back" href="../../source/fin.html#fin.draft.test">[documentos]</a><span class="k">def</span> <span class="nf">test</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Função teste bla bla bla blabla bla</span>
+
+<span class="sd">    :param a: Capital a ser calculoado o juro</span>
+<span class="sd">    :type a: float</span>
+<span class="sd">    :param b: Taxa a ser aplicada</span>
+<span class="sd">    :type b: fCaraloat</span>
+<span class="sd">    :param c: Tempo de maturação</span>
+<span class="sd">    :type c: int</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    
+    <span class="k">return</span> <span class="n">a</span></div>
+
+
+<div class="viewcode-block" id="A"><a class="viewcode-back" href="../../source/fin.html#fin.draft.A">[documentos]</a><span class="k">class</span> <span class="nc">A</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Classe de teste para o docstring</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    <span class="n">active</span><span class="p">:</span> <span class="nb">bool</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Identifica se o atribuo foi documentado</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+<div class="viewcode-block" id="A.f1"><a class="viewcode-back" href="../../source/fin.html#fin.draft.A.f1">[documentos]</a>    <span class="k">def</span> <span class="nf">f1</span><span class="p">():</span>
+        <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">        Document f1</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="k">pass</span></div></div>
+
+<div class="viewcode-block" id="f10"><a class="viewcode-back" href="../../source/fin.html#fin.draft.f10">[documentos]</a><span class="k">def</span> <span class="nf">f10</span><span class="p">(</span><span class="n">a</span><span class="p">:</span> <span class="n">A</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    recebe a classe A</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        a (A): Parametro classe</span>
+<span class="sd">    &quot;&quot;&quot;</span></div>
+
+
+<div class="viewcode-block" id="f2"><a class="viewcode-back" href="../../source/fin.html#fin.draft.f2">[documentos]</a><span class="k">def</span> <span class="nf">f2</span><span class="p">():</span>
+    <span class="n">f10</span><span class="p">()</span></div>
+
+
+<div class="viewcode-block" id="vf_juros_compostos"><a class="viewcode-back" href="../../source/fin.html#fin.draft.vf_juros_compostos">[documentos]</a><span class="k">def</span> <span class="nf">vf_juros_compostos</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="n">n</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Calcula o valor futuro de um capital no regime de juros compostos</span>
+
+<span class="sd">    :param c: Valor atual do capital</span>
+<span class="sd">    :type c: float</span>
+<span class="sd">    :param i: Taxa de juros a ser aplicada</span>
+<span class="sd">    :type i: float</span>
+<span class="sd">    :param n: Numero de períodos</span>
+<span class="sd">    :type n: integer</span>
+<span class="sd">    :return: Valor futuro do capital</span>
+<span class="sd">    :rtype: float</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    
+    <span class="k">return</span> <span class="n">c</span> <span class="o">*</span> <span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="n">i</span><span class="p">)</span><span class="o">**</span><span class="n">n</span></div>
+    
+    
+<div class="viewcode-block" id="vf_juros_compostos2"><a class="viewcode-back" href="../../source/fin.html#fin.draft.vf_juros_compostos2">[documentos]</a><span class="k">def</span> <span class="nf">vf_juros_compostos2</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">i</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Calcula o valor futuro de um capital no regime de juros compostos</span>
+<span class="sd"> </span>
+<span class="sd">    Parametros:</span>
+<span class="sd">        </span>
+<span class="sd">    - c (float): Valor atual do capital</span>
+<span class="sd">    - i (float): Taxa de juros a ser aplicada</span>
+<span class="sd">    - n (int): Número de períodos</span>
+<span class="sd">   </span>
+<span class="sd">    Returns </span>
+<span class="sd">    ~~~~~~~</span>
+<span class="sd">    - Valor futuro do capital informado  </span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    
+    <span class="k">return</span> <span class="n">c</span> <span class="o">*</span> <span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="n">i</span><span class="p">)</span><span class="o">**</span><span class="n">n</span></div>
+
+
+<span class="k">def</span> <span class="nf">f1</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span> <span class="n">p2</span><span class="p">,</span> <span class="n">p3</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    [summary]</span>
+
+<span class="sd">    :param p1: [description]</span>
+<span class="sd">    :type p1: [type]</span>
+<span class="sd">    :param p2: [description]</span>
+<span class="sd">    :type p2: [type]</span>
+<span class="sd">    :param p3: [description]</span>
+<span class="sd">    :type p3: [type]</span>
+<span class="sd">    :return: [description]</span>
+<span class="sd">    :rtype: float</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    
+<div class="viewcode-block" id="f1"><a class="viewcode-back" href="../../source/fin.html#fin.draft.f1">[documentos]</a><span class="k">def</span> <span class="nf">f1</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span> <span class="n">p2</span><span class="p">,</span> <span class="n">p3</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    [summary]</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        p1 ([type]): [description]</span>
+<span class="sd">        p2 ([type]): [description]</span>
+<span class="sd">        p3 ([type]): [description]</span>
+
+<span class="sd">    Returns:</span>
+<span class="sd">        float: [description]</span>
+<span class="sd">    &quot;&quot;&quot;</span></div>
+        
+</pre></div>
+
+           </div>
+           
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2021, gb.lab.
+
+    </p>
+  </div>
+    
+    
+    
+    Compilado com <a href="https://www.sphinx-doc.org/">Sphinx</a> usando um
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">tema</a>
+    
+    fornecido por <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
