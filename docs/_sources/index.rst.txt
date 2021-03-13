@@ -13,6 +13,7 @@ Welcome to Techtalks docstrings's documentation!
    source/modules.rst
    source/intro.rst
    source/sphinx_autodoc.rst
+   source/tldr
 
 Indices and tables
 ==================

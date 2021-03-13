@@ -160,41 +160,39 @@
 
 <div class="viewcode-block" id="juros_simples"><a class="viewcode-back" href="../../source/fin.html#fin.juros.juros_simples">[documentos]</a><span class="k">def</span> <span class="nf">juros_simples</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">i</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
     <span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">    Calcula o juros simples do capital informado.</span>
+<span class="sd">    Calculo de juros simples.</span>
 
-<span class="sd">    :param c: (float) Capital  </span>
-<span class="sd">    :param i: (float) Taxa de juros por período</span>
-<span class="sd">    :param n: (int) Número de períodos </span>
-<span class="sd">    </span>
-<span class="sd">    :returns (float): juros calculado sobre o capital no período informado </span>
+<span class="sd">    Calcula os juros simples do capital informado</span>
 
-<span class="sd">    :Examplo de uso:</span>
-<span class="sd">    </span>
-<span class="sd">    .. code-block:: python</span>
-<span class="sd">    capital = 100</span>
-<span class="sd">    taxa = 10</span>
-<span class="sd">    periodos = 3</span>
-<span class="sd">    juros = juros_simples2(capital, taxa, periodos)</span>
-<span class="sd">    &quot;&quot;&quot;</span>
-    
+<span class="sd">    :param c: Capital sobre o qual será feito o cálculo</span>
+<span class="sd">    :type c: float</span>
+<span class="sd">    :param i: Taxa de juros por período</span>
+<span class="sd">    :type i: float</span>
+<span class="sd">    :param n: Número de períodos</span>
+<span class="sd">    :type n: int</span>
+<span class="sd">    :return: Valor dos juros calculado sobre o capital, no perído informado.</span>
+<span class="sd">    :rtype: float</span>
+<span class="sd">    &quot;&quot;&quot;</span> 
     <span class="k">return</span> <span class="n">c</span><span class="o">*</span><span class="n">i</span><span class="o">*</span><span class="n">n</span></div>
 
 
-<div class="viewcode-block" id="vf_juros_compostos"><a class="viewcode-back" href="../../source/fin.html#fin.juros.vf_juros_compostos">[documentos]</a><span class="k">def</span> <span class="nf">vf_juros_compostos</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="n">n</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+<div class="viewcode-block" id="juros_compostos"><a class="viewcode-back" href="../../source/fin.html#fin.juros.juros_compostos">[documentos]</a><span class="k">def</span> <span class="nf">juros_compostos</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">cf</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
     <span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">    Calcula o valor futuro de um capital no regime de juros compostos</span>
+<span class="sd">    Cálculo de juros compostos</span>
 
-<span class="sd">    :param c: Valor atual do capital</span>
+<span class="sd">    Calcula os juros compostos de um capital sobre o valor final.</span>
+
+<span class="sd">    :param c: Capital inicial</span>
 <span class="sd">    :type c: float</span>
-<span class="sd">    :param i: Taxa de juros a ser aplicada</span>
-<span class="sd">    :type i: float</span>
-<span class="sd">    :param n: Numero de períodos</span>
-<span class="sd">    :type n: integer</span>
-<span class="sd">    :return: Valor futuro do capital</span>
+<span class="sd">    :param cf: Capital atualizado no final dos períodos (Valor final)</span>
+<span class="sd">    :type cf: float</span>
+<span class="sd">    :param n: Número de perídos</span>
+<span class="sd">    :type n: int</span>
+<span class="sd">    :return: Taxa de juros aplicada</span>
 <span class="sd">    :rtype: float</span>
 <span class="sd">    &quot;&quot;&quot;</span>
     
-    <span class="k">return</span> <span class="n">c</span> <span class="o">*</span> <span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="n">i</span><span class="p">)</span><span class="o">**</span><span class="n">n</span></div>
+    <span class="k">return</span> <span class="p">(</span><span class="n">cf</span><span class="o">/</span><span class="n">c</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="mf">3.</span><span class="p">)</span> <span class="o">-</span><span class="mi">1</span> </div>
     
     
 </pre></div>
