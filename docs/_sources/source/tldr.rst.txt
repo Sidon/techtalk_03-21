@@ -115,7 +115,7 @@ Customize o arquivo Makefile
         cp -rf $(HTMLDIR)/* $(DOCSDIR)
 
 ******************************
-Cofigure docs local/github
+Configure docs local/github
 ******************************
 
 Local
@@ -128,7 +128,7 @@ Local
 Github
 -------
 ::
-
+    Na pagina do projeto 
     settings/github pages/
 
 ***************
@@ -137,3 +137,12 @@ Execute o make
 ::
 
     make html
+
+****************
+Atualize o repo
+****************
+::
+
+    $ git add -u & git commit -m 'Update tldr and html' 
+    $ git push
+    

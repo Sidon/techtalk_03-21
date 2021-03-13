@@ -95,12 +95,13 @@
 <li class="toctree-l2"><a class="reference internal" href="#atualize-o-arquivo-conf-py">Atualize o arquivo conf.py</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#customize-o-arquivo-index-rst">Customize o arquivo index.rst</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#customize-o-arquivo-makefile">Customize o arquivo Makefile</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#cofigure-docs-local-github">Cofigure docs local/github</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#configure-docs-local-github">Configure docs local/github</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#local">Local</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#github">Github</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#execute-o-make">Execute o make</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#atualize-o-repo">Atualize o repo</a></li>
 </ul>
 </li>
 </ul>
@@ -275,8 +276,8 @@ help:
 </pre></div>
 </div>
 </div>
-<div class="section" id="cofigure-docs-local-github">
-<h2>Cofigure docs local/github<a class="headerlink" href="#cofigure-docs-local-github" title="Link permanente para este título">¶</a></h2>
+<div class="section" id="configure-docs-local-github">
+<h2>Configure docs local/github<a class="headerlink" href="#configure-docs-local-github" title="Link permanente para este título">¶</a></h2>
 <div class="section" id="local">
 <h3>Local<a class="headerlink" href="#local" title="Link permanente para este título">¶</a></h3>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>on  master branch
@@ -286,14 +287,23 @@ $ makedir &lt;project_root&gt;/docs
 </div>
 <div class="section" id="github">
 <h3>Github<a class="headerlink" href="#github" title="Link permanente para este título">¶</a></h3>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">settings</span><span class="o">/</span><span class="n">github</span> <span class="n">pages</span><span class="o">/</span>
-</pre></div>
-</div>
+<dl class="simple">
+<dt>::</dt><dd><p>Na pagina do projeto
+settings/github pages/</p>
+</dd>
+</dl>
 </div>
 </div>
 <div class="section" id="execute-o-make">
 <h2>Execute o make<a class="headerlink" href="#execute-o-make" title="Link permanente para este título">¶</a></h2>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">make</span> <span class="n">html</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="atualize-o-repo">
+<h2>Atualize o repo<a class="headerlink" href="#atualize-o-repo" title="Link permanente para este título">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git add -u &amp; git commit -m &#39;Update tldr and html&#39;
+$ git push
 </pre></div>
 </div>
 </div>

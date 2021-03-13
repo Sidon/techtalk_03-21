@@ -143,5 +143,6 @@ Atualize o repo
 ****************
 ::
 
-    git add -u & git commit -m 'Update tldr and html' & git push
+    $ git add -u & git commit -m 'Update tldr and html' 
+    $ git push
     
