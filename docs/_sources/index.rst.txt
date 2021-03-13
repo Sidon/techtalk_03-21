@@ -11,6 +11,8 @@ Welcome to Techtalks docstrings's documentation!
    :caption: Contents:
 
    source/modules.rst
+   source/intro.rst
+   source/sphinx_autodoc.rst
 
 Indices and tables
 ==================

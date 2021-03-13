@@ -1,0 +1,283 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="pt-BR" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Docstrings &mdash; documentação Techtalks Docstrings 1.0</title>
+  
+
+  
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Índice" href="../genindex.html" />
+    <link rel="search" title="Buscar" href="../search.html" />
+    <link rel="next" title="Sphinx" href="sphinx_autodoc.html" />
+    <link rel="prev" title="fin package" href="fin.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> Techtalks Docstrings
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Pesquisar documentos" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="modules.html">fin</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Docstrings</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#convencoes-para-docstring">Convenções para  Docstring:</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#python-docstring">Python docstring</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#pep-257">PEP 257</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#modulos">Módulos</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#metodos-publicos">Métodos públicos</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#pacotes">Pacotes</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#restructuredtext">reStructuredText</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#sphinx">Sphinx</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="sphinx_autodoc.html">Sphinx</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">Techtalks Docstrings</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Docstrings</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="../_sources/source/intro.rst.txt" rel="nofollow"> Ver código-fonte da página</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="docstrings">
+<h1>Docstrings<a class="headerlink" href="#docstrings" title="Link permanente para este título">¶</a></h1>
+<p>Em programação, uma docstring é uma string literal especificada no código fonte, usada como um
+comentário, para documentar um segmento específico de código.</p>
+<p>Linguagens que suportam dosctrings incluem Python, Lisp, Elixir, Clojure, Gherkin,
+Julia and Haskell.</p>
+<p>Wikipedia</p>
+<div class="section" id="convencoes-para-docstring">
+<h2>Convenções para  Docstring:<a class="headerlink" href="#convencoes-para-docstring" title="Link permanente para este título">¶</a></h2>
+<ul class="simple">
+<li><p>A primeira linha deve ser uma breve descrição.</p></li>
+<li><p>Não escreva o nome do objeto. Se houver mais linhas na string de documentação, a segunda linha deve ficar em branco.</p></li>
+<li><p>As linhas a seguir devem ser um ou mais parágrafos que descrevem as convenções de chamada do objeto, seus efeitos colaterais, etc.</p></li>
+</ul>
+</div>
+<div class="section" id="python-docstring">
+<h2>Python docstring<a class="headerlink" href="#python-docstring" title="Link permanente para este título">¶</a></h2>
+<p>Em python, uma docstring fornece uma maneira conveniente de associar a documentação aos módulos,
+funções métodos e classes. Ao contrário dos comentários convencionais do código-fonte,
+<strong>uma docstring deve descrever o que a função faz, e não como.</strong></p>
+<div class="section" id="pep-257">
+<h3>PEP 257<a class="headerlink" href="#pep-257" title="Link permanente para este título">¶</a></h3>
+<p>Uma docstring é uma string literal que ocorre como a primeira instrução em uma definição de módulo,
+função, classe ou método. Tal docstring torna-se o atributo especial <code class="docutils literal notranslate"><span class="pre">`__doc__`</span></code> desse objeto.</p>
+<div class="section" id="modulos">
+<h4>Módulos<a class="headerlink" href="#modulos" title="Link permanente para este título">¶</a></h4>
+<p>Todos os módulos normalmente devem ter docstrings, e todas as funções e classes exportadas por um
+módulo também devem ter docstrings.</p>
+</div>
+<div class="section" id="metodos-publicos">
+<h4>Métodos públicos<a class="headerlink" href="#metodos-publicos" title="Link permanente para este título">¶</a></h4>
+<p>Os métodos públicos (incluindo o construtor <code class="docutils literal notranslate"><span class="pre">`__init__`</span></code> )
+também devem ter docstrings.</p>
+</div>
+<div class="section" id="pacotes">
+<h4>Pacotes<a class="headerlink" href="#pacotes" title="Link permanente para este título">¶</a></h4>
+<p>Um pacote pode ser documentado no docstring do módulo do
+arquivo <code class="docutils literal notranslate"><span class="pre">`_init__.py`</span></code> no diretório do pacote.</p>
+</div>
+</div>
+</div>
+<div class="section" id="restructuredtext">
+<h2>reStructuredText<a class="headerlink" href="#restructuredtext" title="Link permanente para este título">¶</a></h2>
+<p>reStructuredText é um sistema analisador e sintaxe de marcação de texto simples de fácil
+leitura, o que você vê é o que você obtém. É útil para, entre outros usos, documentação
+de programa em linha (como docstrings do Python).</p>
+<p>O objetivo principal do reStructuredText é definir e implementar uma sintaxe de marcação
+para uso em docstrings Python e outros domínios de documentação.
+Site: <a class="reference external" href="https://docutils.sourceforge.io/rst.html">https://docutils.sourceforge.io/rst.html</a></p>
+</div>
+<div class="section" id="sphinx">
+<h2>Sphinx<a class="headerlink" href="#sphinx" title="Link permanente para este título">¶</a></h2>
+<p>Sphinx é um gerador de documentação ou uma ferramenta que traduz um conjunto de arquivos
+fonte de texto simples em vários formatos de saída, produzindo automaticamente referências cruzadas,
+índices, etc.</p>
+<p>Muito do poder do Sphinx vem da riqueza de seu formato de marcação de texto simples padrão,
+reStructuredText.
+(<a class="reference external" href="https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html">https://www.sphinx-doc.org/pt_BR/master/usage/quickstart.html</a>)</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="sphinx_autodoc.html" class="btn btn-neutral float-right" title="Sphinx" accesskey="n" rel="next">Próximo <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="fin.html" class="btn btn-neutral float-left" title="fin package" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Anterior</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2021, gb.lab.
+
+    </p>
+  </div>
+    
+    
+    
+    Compilado com <a href="https://www.sphinx-doc.org/">Sphinx</a> usando um
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">tema</a>
+    
+    fornecido por <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
