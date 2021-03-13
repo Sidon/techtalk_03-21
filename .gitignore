@@ -138,3 +138,5 @@ local_dev/
 # Private dependencies
 poetry.toml
 .DS_Store
+
+attic/
