@@ -124,10 +124,12 @@ Local
 
     on  master branch
     $ makedir <project_root>/docs
+    $ touch <project_root>/docs/.nojekyll
 
 Github
 -------
 ::
+
     Na pagina do projeto 
     settings/github pages/
 
