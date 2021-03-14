@@ -1,7 +1,8 @@
-
 =====
 TL;DR 
 =====
+
+Resumo para criação de documentos e publicação no github, veja mais detalhes sobre sphinx/rst em :ref:`sphinx-long`.
 
 *****************
 Instale o sphinx

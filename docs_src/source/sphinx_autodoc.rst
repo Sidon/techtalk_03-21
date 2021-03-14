@@ -1,3 +1,5 @@
+.. _sphinx-long:
+
 =======
 Sphinx
 =======
@@ -88,14 +90,14 @@ para o python:
 O arquivo index.rst
 ********************
 
-index.rst é o documento mestre que tem como funçãoprincipal servir de página de 
+index.rst é o documento mestre que tem como função principal servir de página de 
 boas-vindas, bem como conter a documentação raiz da estrutura “sumário” ou (toctree). 
 Isso é um dos princípios que Sphinx usa para adicionar reStructuredText para conectar 
 múltiplos arquivos em uma hierarquia simples de documentos.
 
 Diretivas reStructuredText
 ==========================
-Diretivas podem conter argumentos, opções e c:caption: Contents:onteúdos.
+Diretivas podem conter argumentos, opções e Conteúdos.
 Argumentos são fornecidos diretamente após duplo dois pontos seguidos do nome da diretiva. 
 
 Cada diretiva decide se existem e quantos são os argumentos.
