@@ -1,16 +1,20 @@
 """
-Módulo para operações aritméticas.
+Módulo para testes.
 
-Tem como objetivo apenas demonstrar a capacidade de produção automática 
-de referencia cruzada de reStructured Text.
+Tem como objetivo apenas demonstrar testes em "hands-on" e/ou aumentar o volume.
 """
     
     
 class Calc:
     """
     Classe para operações aritméticas.
+    
+    Apenas para "encher linguiça", voce pode ver algo mais nesse link -> :mod:`src.fin.juros`
 
     Métodos
+    --------
+    - add
+    - times
 
     :return: [description]
     :rtype: [type]
@@ -48,4 +52,3 @@ class Calc:
         """ 
         
         return m*n
-           

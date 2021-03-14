@@ -38,7 +38,7 @@ Atualize o arquivo conf.py
 
     import os
     import sys
-    sys.path.insert(0, os.path.abspath('../src'))
+    sys.path.insert(0, os.path.abspath('../'))
 
     project = 'Techtalks Docstrings'
     copyright = '2021, gb.lab'

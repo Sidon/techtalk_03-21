@@ -88,6 +88,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../source/modules.html">fin</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../source/intro.html">Docstrings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../source/sphinx_autodoc.html">Sphinx</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../source/tldr.html">TL;DR</a></li>
 </ul>
 
             
@@ -154,16 +155,14 @@
            <div itemprop="articleBody">
             
   <h1>Código fonte para fin.juros</h1><div class="highlight"><pre>
-<span></span><span class="kn">from</span> <span class="nn">.mymath</span> <span class="kn">import</span> <span class="n">Calc</span>
-
-
-
-<div class="viewcode-block" id="juros_simples"><a class="viewcode-back" href="../../source/fin.html#fin.juros.juros_simples">[documentos]</a><span class="k">def</span> <span class="nf">juros_simples</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">i</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+<div class="viewcode-block" id="juros_simples"><a class="viewcode-back" href="../../source/fin.html#fin.juros.juros_simples">[documentos]</a><span></span><span class="k">def</span> <span class="nf">juros_simples</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">i</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
     <span class="sd">&quot;&quot;&quot;</span>
 <span class="sd">    Calculo de juros simples.</span>
 
 <span class="sd">    Calcula os juros simples do capital informado</span>
 
+<span class="sd">    .. _refjs:</span>
+<span class="sd">     </span>
 <span class="sd">    :param c: Capital sobre o qual será feito o cálculo</span>
 <span class="sd">    :type c: float</span>
 <span class="sd">    :param i: Taxa de juros por período</span>
@@ -174,7 +173,6 @@
 <span class="sd">    :rtype: float</span>
 <span class="sd">    &quot;&quot;&quot;</span> 
     <span class="k">return</span> <span class="n">c</span><span class="o">*</span><span class="n">i</span><span class="o">*</span><span class="n">n</span></div>
-
 
 <div class="viewcode-block" id="juros_compostos"><a class="viewcode-back" href="../../source/fin.html#fin.juros.juros_compostos">[documentos]</a><span class="k">def</span> <span class="nf">juros_compostos</span><span class="p">(</span><span class="n">c</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">cf</span><span class="p">:</span> <span class="nb">float</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
     <span class="sd">&quot;&quot;&quot;</span>
