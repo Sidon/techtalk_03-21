@@ -282,16 +282,19 @@ help:
 <h3>Local<a class="headerlink" href="#local" title="Link permanente para este título">¶</a></h3>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>on  master branch
 $ makedir &lt;project_root&gt;/docs
+$ touch &lt;project_root&gt;/docs/.nojekyll
 </pre></div>
 </div>
 </div>
 <div class="section" id="github">
 <h3>Github<a class="headerlink" href="#github" title="Link permanente para este título">¶</a></h3>
-<dl class="simple">
-<dt>::</dt><dd><p>Na pagina do projeto
-settings/github pages/</p>
-</dd>
-</dl>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Na</span> <span class="n">pagina</span> <span class="n">do</span> <span class="n">projeto</span>
+<span class="n">settings</span><span class="o">/</span><span class="n">github</span> <span class="n">pages</span><span class="o">/</span>
+
+<span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/&lt;</span><span class="n">user</span><span class="o">&gt;/&lt;</span><span class="n">projeto</span><span class="o">&gt;/</span><span class="n">settings</span>
+</pre></div>
+</div>
+<a class="reference internal image-reference" href="../_images/github1.png"><img alt="Config github" src="../_images/github1.png" style="width: 400px;" /></a>
 </div>
 </div>
 <div class="section" id="execute-o-make">
@@ -302,7 +305,8 @@ settings/github pages/</p>
 </div>
 <div class="section" id="atualize-o-repo">
 <h2>Atualize o repo<a class="headerlink" href="#atualize-o-repo" title="Link permanente para este título">¶</a></h2>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git add -u &amp; git commit -m &#39;Update tldr and html&#39;
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git add -u
+$ git commit -m &#39;Update tldr and html&#39;
 $ git push
 </pre></div>
 </div>

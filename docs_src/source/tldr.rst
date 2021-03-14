@@ -133,6 +133,13 @@ Github
     Na pagina do projeto 
     settings/github pages/
 
+    https://github.com/<user>/<projeto>/settings
+
+
+.. image:: images/github1.png
+  :width: 400
+  :alt: Config github    
+
 ***************
 Execute o make
 ***************
