@@ -2,6 +2,8 @@
 Techtalks_03-21
 #################
 
+`TL;DR <https://sidon.github.io/techtalk_03-21/>`_
+
 Descrição do projeto
 =====================
 Apresentação de estratégia de documentação de código de projetos no github.
