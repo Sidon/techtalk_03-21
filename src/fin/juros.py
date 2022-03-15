@@ -26,6 +26,7 @@ def juros_simples(c: float, i: float, n: int) -> float:
     """ 
     return c*i*n
 
+
 def juros_compostos(c: float, cf: float, n: int) -> float:
     """
     Cálculo de juros compostos.
@@ -51,4 +52,6 @@ def juros_compostos(c: float, cf: float, n: int) -> float:
     
     return (cf/c)**(1/3.) -1 
     
-    
+
+
+

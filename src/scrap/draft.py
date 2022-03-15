@@ -25,7 +25,7 @@ class Calc:
         """
         Realiza a adição de dois números do tipo float.
 
-        Tem como objetivo apenas a demonstração da capacidade de refrencia cruzada de reStructured text.
+        Tem como objetivo apenas a demonstração da capacidade de referencia cruzada de reStructured text.
 
         :param n: Primeiro membro da operação de adição
         :type n: float
@@ -47,8 +47,37 @@ class Calc:
         :type n: float
         :param m: Segundo membro da operação de multiplicação
         :type m: float
-        :return: Resultado da operação
+        :return: Resultado da operaçãoCode is more often read than written
         :rtype: float
         """ 
         
         return m*n
+
+
+
+"""
+Calculo de juros simples.
+Calcula os juros simples do capital informado.
+O parametro c refere-se ao capital, i é a taxa de juros do período e n é o número de períodos.
+"""
+def j1(c: float, i: float, n: int) -> float:
+    return c * i * n
+
+
+def j2(c: float, i: float, n: int) -> float:
+    """
+    Calculo de juros simples.
+
+    Calcula os juros simples do capital informado.
+
+    :param c: Capital sobre o qual será feito o cálculo.
+    :type c: float
+    :param i: Taxa de juros por período.
+    :type i: float
+    :param n: Número de períodos.
+    :type n: int
+    :return: Valor dos juros calculado sobre o capital, no período informado.
+    :rtype: float
+    """ 
+    return c*i*n
+
